@@ -1,4 +1,4 @@
-package com.nelioalves.cursomc;
+package br.ufg.inf.bsi.aulafullstack.teste;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
